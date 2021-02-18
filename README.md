@@ -5,3 +5,5 @@
 ## Reference
 
 - [最新整理的 web 前端知识体系](https://what-is-fe.gitee.io/)
+
+- [Markdown 语法教程](https://markdown.com.cn/basic-syntax/code.html)
